@@ -14,3 +14,5 @@ planning
 .DS_Store
 *.sqlite3
 *.pyc
+media/fixtures/
+media/products/
