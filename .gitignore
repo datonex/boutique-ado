@@ -1,3 +1,4 @@
+*env
 core.Microsoft*
 core.mongo*
 core.python*
@@ -11,4 +12,5 @@ cloudinary_python.txt
 .zip
 planning
 .DS_Store
-.env
+*.sqlite3
+*.pyc
